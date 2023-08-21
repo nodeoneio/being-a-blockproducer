@@ -1,2 +1,2 @@
-# being-a-blockproducer
-BP가 되어보자 교육자료 저장소
+# BP가 되어보자 자료 저장소
+EOSVerse 에서 강의중인 BP 가 되어보자 교육자료입니다.
